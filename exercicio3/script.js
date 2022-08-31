@@ -27,7 +27,7 @@ pokemon1.ataques1.push(ataque)
 
 //c)
 
-pokemon2.ataques1 =  pokemon1.ataques1
+pokemon2.ataques1 = pokemon1.ataques1
 
 
 //d)
@@ -41,8 +41,8 @@ pokemon1.ataques2 = [{
 
 //e)
 
-pokemon2.ataques1 = [{              //o exercício pedia para"criar" o ataque
-    nome: "Jato de Água",           //isso é o mesmo que "adicionar"?
+pokemon2.ataques2 = [{         //o exercício pedia para"criar" o ataque
+    nome: "Jato de Água",      //isso é o mesmo que "adicionar"?
     dano: 40,
     tipo: "Água",
     precisao: 100
